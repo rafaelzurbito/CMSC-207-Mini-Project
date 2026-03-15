@@ -1,0 +1,130 @@
+Personal Web Profile – Rafael A. Zurbito
+
+Project Description
+
+A personal web profile created using HTML, CSS, and JavaScript.
+It introduces Rafael A. Zurbito, his professional background, hobbies, and contact information.
+
+The website demonstrates the use of basic web development concepts such as:
+
+HTML page structure
+Internal page navigation using anchor links
+Image display and interaction
+Simple JavaScript functionality
+External CSS styling
+
+The webpage serves as a basic personal portfolio or profile page that highlights professional experience and personal interests.
+
+Features
+
+Navigation Menu
+
+allows users to quickly jump to different sections of the webpage:
+
+About Me
+Hobbies & Interests
+Contact Information
+
+This is implemented using anchor links that connect to section IDs.
+
+Interactive Profile Image
+
+The profile picture has a simple JavaScript image swap function.
+
+When the user clicks the image:
+
+The image changes to a different picture.
+Clicking again returns the image to the original photo.
+
+This is done using the onclick event and a JavaScript function.
+
+
+About Me Section
+
+This section contains a short professional background of Rafael Zurbito including:
+
+Property management experienceFacilities management
+Personal values such as integrity and growth mindset
+
+
+Hobbies & Interests
+
+The page lists three hobbies and interests:
+
+Running and exercise
+Aesthetic light photography
+Continuous self-improvement and learning
+
+Each hobby is described briefly.
+
+Contact Information
+
+The footer contains links to my social media accounts:
+
+LinkedIn
+Facebook
+Email contact
+
+Icons are used for LinkedIn and Facebook for visual representation.
+
+File Structure
+
+Example project folder structure:
+
+project-folder
+│
+├── index.html
+│
+├── css
+│   └── web-profile-style.css
+│
+└── images
+    ├── raz-image.png
+    ├── swap-img.jpg
+    ├── linked-in-logo.png
+    └── facebook-logo.png
+
+Technologies Used
+
+HTML – Page structure
+CSS – Page styling
+JavaScript – Image swap interaction
+
+
+How to Run the file
+
+Download or clone the project folder.
+
+2. Ensure the folder contains the HTML file, CSS folder, and images folder.
+
+3. Open the file: index.html
+
+4. The page will open in any web browser such as:
+Google Chrome
+Microsoft Edge
+Firefox
+
+
+Author
+
+Rafael A. Zurbito
+
+Future Improvements
+
+Possible improvements for the website include:
+
+Responsive mobile design
+
+Additional sections (projects, skills, certifications)
+
+Professional photo gallery
+
+Contact form
+
+Smooth scrolling navigation
+
+Improved UI design with modern CSS layout techniques
+
+License
+
+This project is for educational and personal portfolio purposes.
